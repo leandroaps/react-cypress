@@ -1,0 +1,13 @@
+{
+  "name": "react-cypress",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0"
+  }
+}
